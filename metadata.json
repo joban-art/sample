@@ -1,0 +1,7 @@
+{
+  "name": "BrightPath Academy",
+  "description": "Premier tuition and coaching institute in Model Town, Ludhiana for Class 6-12, Board Exam Preparation, and Weekly Test Series.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
